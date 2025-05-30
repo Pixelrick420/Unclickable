@@ -1,0 +1,7 @@
+node_modules
+src/.next
+dist
+Dockerfile
+.dockerignore
+.git
+.gitignore
